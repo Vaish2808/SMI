@@ -1,0 +1,24 @@
+{
+  "name": "prathamesh",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "firebase": "^8.6.5",
+    "firebase-admin": "^9.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SMI"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "vaishnavi",
+  "license": "ISC"
+}
